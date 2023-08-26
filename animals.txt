@@ -1,5 +1,5 @@
 M Muskrat
 N Newt
-O Owl
+O Onager
 P Panda
-T Tiger
+T Tapir
